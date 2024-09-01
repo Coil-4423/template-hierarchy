@@ -1,4 +1,6 @@
 # template-hierarchy
+![image](https://github.com/user-attachments/assets/25461ff8-2599-400f-a0a2-4cc3893d2419)
+
 
 In WordPress, the **template hierarchy** is the system that WordPress uses to determine which template file to use when displaying different types of content. This hierarchy is crucial for theme development as it defines how WordPress selects templates based on the URL or query being viewed.
 
